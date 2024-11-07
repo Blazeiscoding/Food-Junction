@@ -1,11 +1,11 @@
 {
-  "name": "munchmetrics-chrome-extension",
+  "name": "food-junction-extension",
   "version": "3.0.0",
   "description": "Chrome extension for the app MunchMetrics",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaga341/munchmetrics-chrome-extension.git"
+    "url": "https://github.com/jaga341/food-junction-extension.git"
   },
   "scripts": {
     "build": "node utils/build.js",

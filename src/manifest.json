@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "MunchMetrics | Swiggy Zomato Expense Tracker",
+  "name": "FoodJunction | Swiggy Zomato Expense Tracker",
   "description": "Get insights of your food adventures from Zomato and Swiggy. Track  expenses and get complete visual insights of your food habits",
   "options_page": "options.html",
   "background": { "service_worker": "background.bundle.js" },

@@ -1,4 +1,4 @@
-# MunchMetrics - Chrome extension
+# FoodJunction - Chrome extension
 
 ## Install
 
